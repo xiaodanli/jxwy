@@ -1,0 +1,22 @@
+{
+  "name": "jxwu",
+  "authors": [
+    "dandan <lixd@digi-zones.com>"
+  ],
+  "description": "dandan jxwy",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.7",
+    "angular-ui-router": "^0.3.1"
+  }
+}
